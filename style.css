@@ -1,3 +1,7 @@
+.container{
+    padding: 0px 200px 0px 200px;
+    margin-bottom: 80px;
+}
 .org-bg{
     background-color: #fceae8;
 }
@@ -17,4 +21,29 @@
     padding: 9px 25px;
     cursor: pointer;
 
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+  
+}
+.cat1{
+    background-image: linear-gradient( orange 100% , white 0%);
+    background-color: orange;
+   
+}
+.cat2{
+    background-color: #FF136F;
+}
+.cat3{
+    background-color: blue;
+
+}
+.catagories h1{
+    color: white;
+    
+
+}
+.catagories img{
+    width: 100px;
 }
